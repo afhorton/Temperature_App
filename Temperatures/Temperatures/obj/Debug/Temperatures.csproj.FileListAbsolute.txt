@@ -1,0 +1,11 @@
+C:\Users\922747\source\repos\Temperatures\Temperatures\bin\Debug\Temperatures.exe.config
+C:\Users\922747\source\repos\Temperatures\Temperatures\bin\Debug\Temperatures.exe
+C:\Users\922747\source\repos\Temperatures\Temperatures\bin\Debug\Temperatures.pdb
+C:\Users\922747\source\repos\Temperatures\Temperatures\obj\Debug\Temperatures.csproj.AssemblyReference.cache
+C:\Users\922747\source\repos\Temperatures\Temperatures\obj\Debug\Temperatures.csproj.SuggestedBindingRedirects.cache
+C:\Users\922747\source\repos\Temperatures\Temperatures\obj\Debug\Temperatures.frmTemperatures.resources
+C:\Users\922747\source\repos\Temperatures\Temperatures\obj\Debug\Temperatures.Properties.Resources.resources
+C:\Users\922747\source\repos\Temperatures\Temperatures\obj\Debug\Temperatures.csproj.GenerateResource.cache
+C:\Users\922747\source\repos\Temperatures\Temperatures\obj\Debug\Temperatures.csproj.CoreCompileInputs.cache
+C:\Users\922747\source\repos\Temperatures\Temperatures\obj\Debug\Temperatures.exe
+C:\Users\922747\source\repos\Temperatures\Temperatures\obj\Debug\Temperatures.pdb
